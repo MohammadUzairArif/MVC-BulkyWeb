@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "bulky-web\\Views\\Category\\Create.cshtml",
               "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Views\\Category\\Create.cshtml*",
               "RelativeToolTip": "bulky-web\\Views\\Category\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-02T20:04:58.666Z",
               "EditorCaption": ""
@@ -123,31 +123,30 @@
               "RelativeToolTip": "bulky-web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAmwDUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-01T22:19:03.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T22:19:03.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "bulky-web\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "bulky-web\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-01T22:16:14.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "bulky-web\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Controllers\\CategoryController.cs*",
               "RelativeToolTip": "bulky-web\\Controllers\\CategoryController.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T22:14:08.309Z",
               "EditorCaption": ""
@@ -158,9 +157,9 @@
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Models\\Category.cs",
               "RelativeDocumentMoniker": "bulky-web\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Models\\Category.cs",
-              "RelativeToolTip": "bulky-web\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Models\\Category.cs*",
+              "RelativeToolTip": "bulky-web\\Models\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T21:41:26.057Z",
               "EditorCaption": ""
