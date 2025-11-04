@@ -145,3 +145,7 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\refin
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.pdb
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.genruntimeconfig.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\ref\bulky-web.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.Models.pdb
