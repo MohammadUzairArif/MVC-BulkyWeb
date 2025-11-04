@@ -13,7 +13,9 @@
     <!-- ✅ Toastr CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
+
+    <!-- 🔹 HEADER -->
     <header>
         <nav class="navbar navbar-expand-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
             <div class="container-fluid">
@@ -40,28 +42,29 @@
         </nav>
     </header>
 
-    <div class="container">
-        <main role="main" class="pb-3">
-            <!-- ✅ Notification partial -->
+    <!-- 🔹 MAIN CONTENT -->
+    <main role="main" class="flex-grow-1">
+        <div class="container pb-3">
             <partial name="_Notification" />
             @RenderBody()
-        </main>
-    </div>
+        </div>
+    </main>
 
-    <footer class="border-top footer bg-primary text-white text-center py-3">
+    <!-- 🔹 FOOTER -->
+    <footer class="mt-auto bg-primary text-white text-center py-3 border-top">
         <div class="container">
             &copy; 2025 - Made with <i class="bi bi-heart-fill"></i> by bulky_web
         </div>
     </footer>
 
-    <!-- ✅ Global JS files -->
+    <!-- 🔹 JS -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-
-    <!-- ✅ Toastr JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+
+
+
 </html>
