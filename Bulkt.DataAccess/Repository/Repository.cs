@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Bulky.DataAccess.Repository
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public class Repository<T> : IRepository.Repository<T> where T : class
     {
         private readonly ApplicationDBContext _db;
         internal DbSet<T> dbSet;
