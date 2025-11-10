@@ -10,6 +10,12 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\bulky
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Build.dll
@@ -56,6 +62,7 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Micro
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Newtonsoft.Json.dll
@@ -244,6 +251,7 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.AssemblyInfoInputs.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.AssemblyInfo.cs
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.RazorAssemblyInfo.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.RazorAssemblyInfo.cs
@@ -265,11 +273,3 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\refin
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.pdb
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.genruntimeconfig.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\ref\bulky-web.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Mvc.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Razor.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Helpers.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.MvcApplicationPartsAssemblyInfo.cs
