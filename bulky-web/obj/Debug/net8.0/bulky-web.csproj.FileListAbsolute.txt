@@ -265,3 +265,11 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\refin
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.pdb
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.genruntimeconfig.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\ref\bulky-web.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\bulky-web.MvcApplicationPartsAssemblyInfo.cs
