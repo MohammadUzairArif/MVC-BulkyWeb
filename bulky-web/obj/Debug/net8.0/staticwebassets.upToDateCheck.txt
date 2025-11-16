@@ -3,8 +3,6 @@ wwwroot\favicon.ico
 wwwroot\images\product\203b123a-0172-41e1-b385-098b737a44c6.jpg
 wwwroot\images\product\3d794128-b4c5-4f89-a4bf-b176e0e8c64b.jpg
 wwwroot\images\product\496bdb23-8563-458a-b3a1-cbe883f0bc4b.jpg
-wwwroot\images\product\8553ca8a-b62c-44e5-ab15-092f6c531609.png
-wwwroot\images\product\8a7f7abf-3ebd-4d7d-9235-eceb20803c36.jpg
 wwwroot\images\product\e9cbe7b7-9ad7-4186-9d14-36effb5fd300.jpg
 wwwroot\images\product\f6bf80df-10bc-421e-a38c-7a755c51ef9f.jpg
 wwwroot\images\product\fd4423bf-cc66-4133-ba93-665e806a7cbe.jpg
