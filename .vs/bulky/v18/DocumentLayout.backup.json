@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|solutionrelative:bulky-web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEC52421-1C87-4A53-9728-C07570EB86BF}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +34,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bulky.Utility",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Program.cs",
+              "RelativeDocumentMoniker": "bulky-web\\Program.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Program.cs*",
+              "RelativeToolTip": "bulky-web\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:59:31.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:46:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bulky.Utility.csproj",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Utility\\Bulky.Utility.csproj",
               "RelativeDocumentMoniker": "Bulky.Utility\\Bulky.Utility.csproj",
               "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Utility\\Bulky.Utility.csproj",
               "RelativeToolTip": "Bulky.Utility\\Bulky.Utility.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-20T20:52:21.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T20:52:21.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Utility\\EmailSender.cs",
               "RelativeDocumentMoniker": "Bulky.Utility\\EmailSender.cs",
@@ -55,12 +84,11 @@
               "RelativeToolTip": "Bulky.Utility\\EmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:52:37.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T20:52:37.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Utility\\SD.cs",
               "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
@@ -68,31 +96,17 @@
               "RelativeToolTip": "Bulky.Utility\\SD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:40:57.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T20:40:57.678Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Program.cs",
-              "RelativeDocumentMoniker": "bulky-web\\Program.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Program.cs",
-              "RelativeToolTip": "bulky-web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:38:23.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs*",
               "RelativeToolTip": "bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs*",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHMAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T22:05:23.653Z",
               "EditorCaption": ""
