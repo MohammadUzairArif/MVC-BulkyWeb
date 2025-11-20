@@ -9,7 +9,8 @@
       "bulky-web/1.0.0": {
         "dependencies": {
           "Bulky.DataAccess": "1.0.0",
-          "Microsoft.AspNetCore.Identity.UI": "8.0.11",
+          "Bulky.Utility": "1.0.0",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.21",
           "Microsoft.EntityFrameworkCore": "8.0.21",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.21",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.11",
@@ -662,15 +663,15 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Identity.UI/8.0.11": {
+      "Microsoft.AspNetCore.Identity.UI/8.0.21": {
         "dependencies": {
-          "Microsoft.Extensions.FileProviders.Embedded": "8.0.11",
+          "Microsoft.Extensions.FileProviders.Embedded": "8.0.21",
           "Microsoft.Extensions.Identity.Stores": "8.0.21"
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Identity.UI.dll": {
-            "assemblyVersion": "8.0.11.0",
-            "fileVersion": "8.0.1124.52116"
+            "assemblyVersion": "8.0.21.0",
+            "fileVersion": "8.0.2125.47515"
           }
         }
       },
@@ -1335,11 +1336,11 @@
           }
         }
       },
-      "Microsoft.Extensions.FileProviders.Embedded/8.0.11": {
+      "Microsoft.Extensions.FileProviders.Embedded/8.0.21": {
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1124.52116"
+            "fileVersion": "8.0.2125.47515"
           }
         }
       },
@@ -2080,6 +2081,7 @@
         "dependencies": {
           "Bulky.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.21",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.21",
           "Microsoft.EntityFrameworkCore": "8.0.21",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.21"
         },
@@ -2092,10 +2094,22 @@
       },
       "Bulky.Models/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNet.Mvc": "5.3.0"
+          "Microsoft.AspNet.Mvc": "5.3.0",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.21"
         },
         "runtime": {
           "Bulky.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Bulky.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "8.0.21"
+        },
+        "runtime": {
+          "Bulky.Utility.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -2515,12 +2529,12 @@
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/8.0.21",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.8.0.21.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Identity.UI/8.0.11": {
+    "Microsoft.AspNetCore.Identity.UI/8.0.21": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bsfAQ4cY7MlmlounB1/IWe6tEgh7H4fp4fQS61GadxjKSrliiAGFy5BjEGCJzUhwCx2XqzWaYrXB0T1kmsF3vQ==",
-      "path": "microsoft.aspnetcore.identity.ui/8.0.11",
-      "hashPath": "microsoft.aspnetcore.identity.ui.8.0.11.nupkg.sha512"
+      "sha512": "sha512-vY5NeTGnGaEgGHIYsK2f9uPTd+HEH63+6pPVIA0YKbXM2X7AKvn8APZA+fBamN+X84E7xoCHSll67sRj6uLfiw==",
+      "path": "microsoft.aspnetcore.identity.ui/8.0.21",
+      "hashPath": "microsoft.aspnetcore.identity.ui.8.0.21.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/6.0.24": {
       "type": "package",
@@ -2739,12 +2753,12 @@
       "path": "microsoft.extensions.dependencymodel/8.0.2",
       "hashPath": "microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512"
     },
-    "Microsoft.Extensions.FileProviders.Embedded/8.0.11": {
+    "Microsoft.Extensions.FileProviders.Embedded/8.0.21": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1tn+c7d628+dASqo0UezdeWdKrEpp2XA376MUkr4nFYDj295iPWeWOV8rOvgR0Gma1xfOEjNJur1QvS6AVnjng==",
-      "path": "microsoft.extensions.fileproviders.embedded/8.0.11",
-      "hashPath": "microsoft.extensions.fileproviders.embedded.8.0.11.nupkg.sha512"
+      "sha512": "sha512-JmAFU1Iuw84BbgPoHRPeEdlmyZHpTh3xdcM3+mYyNLm2OADHTvDMjoHnMLsxE7Qb5C18aWZror8Qr0+dsf0kcw==",
+      "path": "microsoft.extensions.fileproviders.embedded/8.0.21",
+      "hashPath": "microsoft.extensions.fileproviders.embedded.8.0.21.nupkg.sha512"
     },
     "Microsoft.Extensions.Identity.Core/8.0.21": {
       "type": "package",
@@ -3144,6 +3158,11 @@
       "sha512": ""
     },
     "Bulky.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bulky.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
