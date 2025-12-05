@@ -16,6 +16,7 @@ namespace Bulky.DataAccess.Repository
 
         public ICompanyRepository Company { get; private set; }
         public IShoppingCartRepository shoppingCart { get; private set; }
+        public IApplicationUserRepository ApplicationUser { get; private set; }
 
         public UnitOfWork(ApplicationDBContext db) 
         {
@@ -24,6 +25,7 @@ namespace Bulky.DataAccess.Repository
             Product = new ProductRepository(_db);
             Company = new CompanyRepository(_db);
             shoppingCart = new ShoppingCartRepository(_db);
+            ApplicationUser = new ApplicationUserRepository(_db);
         }
         
 

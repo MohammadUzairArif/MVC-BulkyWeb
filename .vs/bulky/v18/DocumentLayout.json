@@ -11,6 +11,22 @@
       "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulkt.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulkt.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulkt.dataaccess\\repository\\irepository\\icompanyrepositoryy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\irepository\\icompanyrepositoryy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CEC64-10F4-42C1-9454-7F0656674062}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0CEC64-10F4-42C1-9454-7F0656674062}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulkt.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A0CEC64-10F4-42C1-9454-7F0656674062}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A0CEC64-10F4-42C1-9454-7F0656674062}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A0CEC64-10F4-42C1-9454-7F0656674062}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A0CEC64-10F4-42C1-9454-7F0656674062}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C53E4BF-6122-4545-AC51-2D980F42155D}|bulky-web\\bulky-web.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulky-web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulkt.dataaccess\\repository\\irepository\\icompanyrepositoryy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\repository\\irepository\\icompanyrepositoryy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc-project\\bulky\\bulkt.dataaccess\\migrations\\20251122214346_addcompanytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D9B4CDF-8186-4217-BCBC-0D0B33257287}|Bulkt.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulkt.dataaccess\\migrations\\20251122214346_addcompanytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,50 +86,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T20:01:33.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
-              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T19:59:25.323Z",
+              "WhenOpened": "2025-12-05T19:53:42.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251126130740_addShoppingCartToDB.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
-              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
-              "RelativeToolTip": "Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:07:40.762Z",
+              "WhenOpened": "2025-12-05T19:51:54.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -133,15 +128,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ICompanyRepositoryy.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:50:35.271Z",
+              "WhenOpened": "2025-11-22T21:48:06.899Z",
               "EditorCaption": ""
             },
             {
@@ -152,14 +147,76 @@
               "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "RelativeToolTip": "Bulkt.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T21:50:04.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:50:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251126130740_addShoppingCartToDB.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Migrations\\20251126130740_addShoppingCartToDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:07:40.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:59:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T23:07:28.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:01:33.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ShoppingCart.cs",
@@ -171,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Bulkt.DataAccess\\Data\\ApplicationDBContext.cs",
@@ -183,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "bulky-web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -195,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "20251122231118_addCompanytoUser.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Migrations\\20251122231118_addCompanytoUser.cs",
               "RelativeDocumentMoniker": "Bulkt.DataAccess\\Migrations\\20251122231118_addCompanytoUser.cs",
@@ -207,19 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:07:28.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "bulky-web\\Views\\Shared\\_Layout.cshtml",
@@ -231,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\bulky-web\\Areas\\Admin\\Views\\Company\\Index.cshtml",
               "RelativeDocumentMoniker": "bulky-web\\Areas\\Admin\\Views\\Company\\Index.cshtml",
@@ -243,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CompanyRepository.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\CompanyRepository.cs",
               "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\CompanyRepository.cs",
@@ -255,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulky.Models\\Company.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Company.cs",
@@ -267,19 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICompanyRepositoryy.cs",
-              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
-              "RelativeDocumentMoniker": "Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
-              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
-              "RelativeToolTip": "Bulkt.DataAccess\\Repository\\IRepository\\ICompanyRepositoryy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:48:06.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20251122214346_addCompanyTable.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc-project\\bulky\\Bulkt.DataAccess\\Migrations\\20251122214346_addCompanyTable.cs",
               "RelativeDocumentMoniker": "Bulkt.DataAccess\\Migrations\\20251122214346_addCompanyTable.cs",
