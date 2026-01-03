@@ -81,21 +81,21 @@ namespace bulky_web.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            var CompanyList = _unitOfWork.Company.GetAll();
-            return Json(new { data = CompanyList });
+            List<Company> ObjCompanyList = _unitOfWork.Company.GetAll().ToList();
+            return Json(new { data = ObjCompanyList });
         }
 
 
         [HttpDelete]
         public IActionResult DeleteAPI(int? id)
         {
-            var obj = _unitOfWork.Company.Get(u => u.Id == id);
-            if (obj == null)
+            var CompanyToBeDeleted = _unitOfWork.Company.Get(u => u.Id == id);
+            if (CompanyToBeDeleted == null)
             {
                 return Json(new { success = false, message = "Error while deleting" });
             }
 
-            _unitOfWork.Company.Remove(obj);
+            _unitOfWork.Company.Remove(CompanyToBeDeleted);
             _unitOfWork.Save();
             return Json(new { success = true, message = "Delete Successful" });
         }

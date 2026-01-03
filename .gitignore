@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Visual Studio cache
+*.dbcache
+*.dbcache.v2
+
+# Design-time build
+DesignTimeBuild/
+
+# Rider / VS Code
+.idea/
+.vscode/

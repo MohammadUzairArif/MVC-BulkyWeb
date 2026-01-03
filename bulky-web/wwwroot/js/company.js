@@ -18,7 +18,7 @@
                             <a href="/Admin/Company/Upsert?id=${data}" class="btn btn-success mx-2">
                                 <i class="bi bi-pencil-square"></i> Edit
                             </a>
-                            <a onClick="Delete('/Admin/Comapny/DeleteAPI/${data}')" class="btn btn-danger mx-2">
+                            <a onClick="Delete('/Admin/Company/DeleteAPI/${data}')" class="btn btn-danger mx-2">
                                 <i class="bi bi-trash-fill"></i> Delete
                             </a>
                         </div>`;
