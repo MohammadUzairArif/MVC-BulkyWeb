@@ -56,6 +56,7 @@ namespace bulky_web.Areas.Customer.Controllers
                 //No shopping cart exists for this user and product
                 _unitOfWork.shoppingCart.Add(shoppingCart);
             }
+            TempData["success"] = "Cart Updated Successfully";
             _unitOfWork.Save();
             return RedirectToAction(nameof(Index));
         }
