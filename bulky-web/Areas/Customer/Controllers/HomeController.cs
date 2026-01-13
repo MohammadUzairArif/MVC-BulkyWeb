@@ -44,17 +44,17 @@ namespace bulky_web.Areas.Customer.Controllers
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
             shoppingCart.ApplicationUserId = userId;
 
-            ShoppingCart cartFromDb = _unitOfWork.shoppingCart.Get(u => u.ApplicationUserId == userId && u.ProductId == shoppingCart.ProductId);
+            ShoppingCart cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.ApplicationUserId == userId && u.ProductId == shoppingCart.ProductId);
             if (cartFromDb != null)
             {
                 //Shopping cart exists for this user and product
                 cartFromDb.Count += shoppingCart.Count;
-                _unitOfWork.shoppingCart.Update(cartFromDb);
+                _unitOfWork.ShoppingCart.Update(cartFromDb);
             }
             else
             {
                 //No shopping cart exists for this user and product
-                _unitOfWork.shoppingCart.Add(shoppingCart);
+                _unitOfWork.ShoppingCart.Add(shoppingCart);
             }
             TempData["success"] = "Cart Updated Successfully";
             _unitOfWork.Save();
