@@ -77,7 +77,7 @@ namespace bulky_web.Areas.Customer.Controllers
             ShoppingCartVM.OrderHeader.ApplicationUserId = userId;
 
 
-            ShoppingCartVM.OrderHeader.ApplicationUser = _unitOfWork.ApplicationUser.Get(u => u.Id == userId);
+            ApplicationUser applicationUser = _unitOfWork.ApplicationUser.Get(u => u.Id == userId);
 
            
 
@@ -86,7 +86,7 @@ namespace bulky_web.Areas.Customer.Controllers
                 cart.Price = GetPriceBasedOnQuantity(cart);
                 ShoppingCartVM.OrderHeader.OrderTotal += cart.Price * cart.Count;
             }
-            if (ShoppingCartVM.OrderHeader.ApplicationUser.CompanyId.GetValueOrDefault() == 0)
+            if (applicationUser.CompanyId.GetValueOrDefault() == 0)
             {
                 // individual customer payment 
                 ShoppingCartVM.OrderHeader.PaymentStatus = SD.PaymentStatusPending;
@@ -113,7 +113,19 @@ namespace bulky_web.Areas.Customer.Controllers
                 _unitOfWork.OrderDetail.Add(orderDetail);
                 _unitOfWork.Save();
             }
-            return View(ShoppingCartVM);
+
+            if (applicationUser.CompanyId.GetValueOrDefault() == 0)
+            {
+                // it is a regular customer account aand we need to capture payment
+                // stripe logic
+
+            }
+           
+            return RedirectToAction(nameof(OrderConfirmation), new {id=ShoppingCartVM.OrderHeader.Id});
+        }
+
+        public IActionResult OrderConfirmation(int id){
+            return View(id);
         }
         public IActionResult Plus(int cartId) { 
             var cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == cartId);
