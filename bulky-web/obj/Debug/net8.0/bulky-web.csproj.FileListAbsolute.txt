@@ -63,7 +63,6 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Micro
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\NuGet.Common.dll
@@ -83,14 +82,11 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Syste
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -236,11 +232,7 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runti
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.Models.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.DataAccess.pdb
@@ -308,3 +300,4 @@ C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\runti
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\PMLS\Desktop\Asp.net\mvc-project\bulky\bulky-web\bin\Debug\net8.0\Stripe.net.dll

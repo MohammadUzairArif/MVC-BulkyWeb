@@ -23,5 +23,28 @@ namespace Bulky.DataAccess.Repository
         {
             _db.OrderHeaders.Update(orderHeader);
         }
+
+        public void UpdateStatus(int id, string OrderStatus, string? paymentStatus = null)
+        {
+            var orderFromDb = _db.OrderHeaders.FirstOrDefault(x => x.Id == id);
+            if (orderFromDb != null) {
+                orderFromDb.OrderStatus = OrderStatus;
+                if (!string.IsNullOrEmpty(paymentStatus)) {
+                    orderFromDb.PaymentStatus = paymentStatus;
+                }
+            }
+        }
+
+        public void UpdateStripePaymentId(int id, string sessionId, string PaymentIntentId)
+        {
+            var orderFromDb = _db.OrderHeaders.FirstOrDefault(x => x.Id == id);
+            if (!string.IsNullOrEmpty(sessionId)) { 
+                orderFromDb.SessionId = sessionId;
+            }
+            if (!string.IsNullOrEmpty(PaymentIntentId)) {
+                orderFromDb.PaymentIntentId = PaymentIntentId;
+                orderFromDb.PaymentDate = DateTime.Now;
+            }
+        }
     }
 }
